@@ -106,29 +106,7 @@ body {
 
 } 
 
-/*
-.login {
-  display: inline-block;
-  padding: 0.5em 1.5em;
-  text-decoration: none;
-  border-radius: 50px;
-  cursor: pointer;
-  outline: none;
-  margin-top: 1em;
-  text-transform: uppercase;
-  font-weight: small;
-}
 
-#login_btn {
-  color: #fff;
-  background: #16a083;
-}
-
-#login_btn:hover {
-  background: #117964;
-  transition: background 0.3s ease-in-out;
-}
-*/
 
 /* ............//// Showcase styling ////......... */
 
@@ -138,7 +116,7 @@ body {
       rgba(240, 240, 240, 0.144),
       rgba(255, 255, 255, 0.336)
     ),
-    url("/assets/Canteen//Pic/coverimageforcanteen.avif");
+    url("Pic/coverimageforcanteen.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
